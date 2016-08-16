@@ -1,0 +1,5 @@
+target 'TestLogin' do
+  pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'FBSDKShareKit'
+end
